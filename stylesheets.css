@@ -1,0 +1,92 @@
+
+body {
+
+  background-color: white;
+  background-image: url('images/Network.jpg');
+}
+.body_index
+          {
+            text-align: center;
+            font-family: 'Taviraj';
+          }
+
+.h1_text{
+
+font-family: 'Pacifico';
+font-size: 5.625rem;
+color: #53BF9D;
+        }
+
+.block_1{
+  display:inline-block;
+  text-align: left;
+  font-size: 1.875rem;
+  font-weight: 700;
+  font-family: Roboto;
+  margin-top:100px;
+  margin-bottom:100px;
+}
+.thinking_gif{
+  width: 20%;
+  margin-right:30px;
+  float:left;
+}
+
+.block_2{
+  display:inline-block;
+  text-align: left;
+  font-size: 1.875rem;
+  font-weight: 700;
+  font-family: Roboto;
+  margin:100px auto 100px auto;
+}
+
+.education_gif
+{
+  padding-top: 5%;
+  height: auto;
+  width:30%;
+  float: right;
+  position: relative;
+
+}
+
+
+.discription_of_education
+{
+  margin:0%;
+
+}
+
+
+
+.education_heading
+{
+  display: inline-block;
+}
+
+
+
+
+
+.name_label{
+  display:inline-block;
+  margin-right: 67px;
+           }
+
+.email_label
+           {
+             display:inline-block;
+             margin-right:50px;
+           }
+
+.feedback_body
+{
+  line-height: 30px;
+  background-color: #FCE2DB;
+}
+.number_label
+           {
+             display:inline-block;
+             margin-right:10px;
+           }
